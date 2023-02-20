@@ -8,6 +8,7 @@ import java.util.Stack;
 
 public class ques_1
 {       //solving this question using stack
+        //TIME COMPLEXITY FOR THIS O(N)
     public static int[]throurgh_stack(int[]c)
     {
         Stack<Integer> hey= new Stack<>();
