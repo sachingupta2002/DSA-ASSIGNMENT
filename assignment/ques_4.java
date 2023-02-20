@@ -65,6 +65,7 @@ public class ques_4 {
         {
             a.insert_head(s.nextInt());
         }
+        a.display();
         System.out.println("THE ROOT ELEMENT IS");
         System.out.println(a.root());
     }
