@@ -78,6 +78,8 @@ public class ques_9 {
         {
             n.insert_head(sc.nextInt());
         }
+      System.out.println("The original list is");
+        n.display();
         System.out.println("Enter window size you want to reverse");
         int k= sc.nextInt();
         System.out.println("The reversed list is");
